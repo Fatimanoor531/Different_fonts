@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: rgb(12, 12, 66);
+    background-color: rgb(160, 160, 236);
+}
+p{
+    text-transform: uppercase;
+    background-color:rgb(201, 232, 245);
+    font-family:calc();
+}
+.cap{
+    text-transform: capitalize;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.low{
+    text-transform: lowercase;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+}
+.le{
+    text-align: right;
+
+}
+.left{
+    text-transform: none;
+    text-align: right;
+    font-family:'Times New Roman', Times, serif;
+}
